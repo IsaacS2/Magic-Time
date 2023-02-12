@@ -1,4 +1,4 @@
-# Project_1
+# Magic Time
 Title: Magic Time
 
 Creator: Isaac Sanchez
